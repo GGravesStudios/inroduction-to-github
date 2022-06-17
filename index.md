@@ -4,3 +4,6 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [x] Create my first repo
+- [x] finish my first project on GH
+- [ ] finish my github introduction exercises 
